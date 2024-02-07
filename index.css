@@ -1,0 +1,799 @@
+.img{
+    width: 60%;
+}
+.img1{
+    width:20px;
+
+}
+.main4{
+    position: relative;
+    height: 460px;
+}
+.div1{
+    position: absolute;
+    background-image: url(./images/lost-in-space-3d-cute-girl-in-astronaut-costume-transparent-background-free-png\ 1.png);
+    background-position: center;
+    width: 100%;
+    background-size: 550px;
+    height: 600px;
+    top: 50px;
+    background-repeat: no-repeat;
+    display: flex ;
+    background-position-x:530px ;
+
+
+    
+        
+}
+.img4{
+    position: absolute;
+    top: 545px;
+    left:630px;
+    width: 33%;
+    
+}
+.img5{
+    position: absolute;
+    left: 485px;
+    top: 315px;
+    width: 23%;
+}
+.img6{
+    position: absolute;
+    left:855px;
+    top: 250px;
+    width: 20%;
+    
+}
+.main{
+    margin-top: 70px;
+}
+.main1{
+    position: absolute;
+    margin-top: 60px;
+    height: 400px;
+    background-image: url(./images/Rectangle\ 3.png) ;
+    background-position: start;
+    border-radius: 20px;
+    width: 98%;
+    
+}
+.main2{
+    margin-top: 70px;
+    height: 400px;
+    background-image: url(./images/Rectangle\ 8.png);
+    background-position: center;
+    border-radius: 20px;
+}
+
+.main3{
+    margin-top: 250px;
+    height: 400px;
+    background-image: url(./images/Rectangle\ 504.png);
+    background-position: center;
+    border-radius: 20px;
+}
+.p1{
+    color: white;
+    font-size: 57px;
+}
+.p2{
+    font-size: 13px;
+}
+.p3{
+    font-size: 48px;
+}
+.p4{
+    font-size: 50px;
+    color: white;
+    padding-top: 45px;
+}
+.p5{
+    font-size: 14px;
+}
+.p6{
+    font-size: 50px;
+    color: white;
+    padding-top: 100px;
+    padding-left: 70px;
+}
+.p7{
+    width: 680px;
+    font-size: 15px;
+    color: white;
+    padding-top: 5px;
+    padding-left: 70px;
+}
+.imgdiv{
+    background: #A9C2CB;
+    padding: 10px;
+    border-radius: 15px;
+}
+.div{
+    margin-top: 30px;
+    padding-left: 70px;
+
+}
+.colcard{
+    background-color: white;
+    border-radius: 15px;
+}
+.btn1{
+    background-color: #A9C2CB;
+    font-size: 18px;
+     color: white;
+     border-radius: 10px;
+     padding-top: 16px;
+     padding-bottom: 10px;
+}
+.input{
+    border: none;
+    border-radius: 10px;
+    width: 500px;
+    
+}
+.a{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+.a1{
+    text-decoration: none;
+    color: black;
+    font-size: 14px;
+}
+
+.imglogo{
+    width: 60%;
+}
+@media screen and (max-width:1200px) {
+    .img{
+        width: 60%;
+    }
+    .img1{
+        width:20px;
+    
+    }
+    .main4{
+        position: relative;
+        height: 420px;
+    }
+    .div1{
+        position: absolute;
+        background-image: url(./images/lost-in-space-3d-cute-girl-in-astronaut-costume-transparent-background-free-png\ 1.png);
+        background-position: center;
+        width: 100%;
+        background-size: 470px;
+        height: 600px;
+        top: 20px;
+        background-repeat: no-repeat;
+        display: flex ;
+        background-position-x:450px ;
+    
+    
+        
+            
+    }
+    .img4{
+        position: absolute;
+        top: 510px;
+        left:530px;
+        width: 33%;
+        
+    }
+    .img5{
+        position: absolute;
+        left: 415px;
+        top: 315px;
+        width: 23%;
+    }
+    .img6{
+        position: absolute;
+        left:730px;
+        top: 260px;
+        width: 20%;
+        
+    }
+    .img7{
+        width: 50px;
+    }
+    .main{
+        margin-top: 70px;
+    }
+    .main1{
+        position: absolute;
+        margin-top: 60px;
+        height:360px;
+        background-image: url(./images/Rectangle\ 3.png) ;
+        background-position: start;
+        border-radius: 20px;
+        width: 98%;
+        
+    }
+    .main2{
+        margin-top: 70px;
+        height: 400px;
+        background-image: url(./images/Rectangle\ 8.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    
+    .main3{
+        margin-top: 250px;
+        height: 360px;
+        background-image: url(./images/Rectangle\ 504.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    .p1{
+        color: white;
+        font-size: 48px;
+    }
+    .p2{
+        font-size: 12.5px;
+    }
+    .p3{
+        font-size: 40px;
+    }
+    .p4{
+        font-size: 40px;
+        color: white;
+        padding-top: 45px;
+    }
+    .p5{
+        font-size: 13px;
+    }
+    .p6{
+        font-size: 40px;
+        color: white;
+        padding-top: 60px;
+        padding-left: 50px;
+    }
+    .p7{
+           width: 650px;
+
+        font-size: 15px;
+        color: white;
+        padding-top: 5px;
+        padding-left: 50px;
+    }
+    .p8{
+        font-size: 14px;
+    }
+    .imgdiv{
+        background: #A9C2CB;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .div{
+        margin-top: 30px;
+        padding-left: 50px;
+    
+    }
+    .colcard{
+        background-color: white;
+        border-radius: 15px;
+    }
+    .btn1{
+        background-color: #A9C2CB;
+        font-size: 18px;
+         color: white;
+         border-radius: 10px;
+         padding-top: 16px;
+         padding-bottom: 10px;
+    }
+    .input{
+        border: none;
+        border-radius: 10px;
+        width: 400px;
+        
+    }
+    .a{
+        text-decoration: none;
+        color: black;
+        font-size: 13px;
+    }
+    .a1{
+        text-decoration: none;
+        color: black;
+        font-size: 13px;
+    }
+    .heading{
+        font-size: 15px ;
+    }
+    .heading1{
+        font-size: 15px;
+    }
+    
+    .imglogo{
+        width: 60%;
+    }
+    
+}
+
+@media screen and (max-width:992px) {
+    .img{
+        width: 60%;
+    }
+    .img1{
+        width:20px;
+    
+    }
+    .main4{
+        position: relative;
+        height: 360px;
+    }
+    .div1{
+        position: absolute;
+        background-image: url(./images/lost-in-space-3d-cute-girl-in-astronaut-costume-transparent-background-free-png\ 1.png);
+        background-position: center;
+        width: 100%;
+        background-size: 390px;
+        height: 600px;
+        top: -10px;
+        background-repeat: no-repeat;
+        display: flex ;
+        background-position-x:330px ;
+    
+    
+        
+            
+    }
+    .img4{
+        position: absolute;
+        top: 475px;
+        left:400px;
+        width: 33%;
+        
+    }
+    .img5{
+        position: absolute;
+        left: 325px;
+        top: 310px;
+        width: 22%;
+    }
+    .img6{
+        position: absolute;
+        left:562px;
+        top: 265px;
+        width: 20%;
+        
+    }
+    .img7{
+        width: 50px;
+    }
+    .main{
+        margin-top: 70px;
+    }
+    .main1{
+        position: absolute;
+        margin-top: 60px;
+        height:300px;
+        background-image: url(./images/Rectangle\ 3.png) ;
+        background-position: center;
+        border-radius: 20px;
+        width: 98%;
+        
+    }
+    .main2{
+        margin-top: 70px;
+        height: 300px;
+        background-image: url(./images/Rectangle\ 8.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    
+    .main3{
+        margin-top: 250px;
+        height: 300px;
+        background-image: url(./images/Rectangle\ 504.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    .p1{
+        color: white;
+        font-size: 30px;
+    }
+    .p2{
+        font-size: 11px;
+    }
+    .p3{
+        font-size: 30px;
+    }
+    .p4{
+        font-size: 30px;
+        color: white;
+        padding-top: 45px;
+    }
+    .p5{
+        font-size: 10px;
+    }
+    .p6{
+        font-size: 35px;
+        color: white;
+        padding-top: 60px;
+        padding-left: 30px;
+    }
+    .p7{
+        width: 550px;
+        font-size: 15px;
+        color: white;
+        padding-top: 5px;
+        padding-left: 30px;
+    }
+    .p8{
+        font-size: 12px;
+    }
+    .imgdiv{
+        background: #A9C2CB;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .div{
+        margin-top: 20px;
+        padding-left: 30px;
+
+    }
+    .colcard{
+        background-color: white;
+        border-radius: 15px;
+    }
+    .btn1{
+        background-color: #A9C2CB;
+        font-size: 18px;
+         color: white;
+         border-radius: 10px;
+         padding-top: 6px;
+         padding-bottom: 6px;
+    }
+    .input{
+        border: none;
+        border-radius: 10px;
+        width: 250px;
+        
+    }
+    .a{
+        text-decoration: none;
+        color: black;
+        font-size: 13px;
+    }
+    .a1{
+        text-decoration: none;
+        color: black;
+        font-size: 11px;
+    }
+    .heading{
+        font-size: 11px ;
+    }
+    .heading1{
+        font-size: 13px;
+    }
+    .imglogo{
+        width: 20%;
+    }
+}
+
+@media screen and (max-width:768px) {
+    .img{
+        width: 60%;
+    }
+    .img1{
+        width:20px;
+    
+    }
+    .main4{
+        position: relative;
+        height: 600px;
+    }
+    .div1{
+        position: absolute;
+        background-image: url(./images/lost-in-space-3d-cute-girl-in-astronaut-costume-transparent-background-free-png\ 1.png);
+        background-position: center;
+        width: 100%;
+        background-size: 370px;
+        height: 600px;
+        top: 40px;
+        background-repeat: no-repeat;
+        display: flex ;
+    
+    
+        
+            
+    }
+    .img4{
+        position: absolute;
+        top: 465px;
+        left:130px;
+        width: 55%;
+        
+    }
+    .img5{
+        position: absolute;
+        left:60px;
+        top: 300px;
+        width: 35%;
+    }
+    .img6{
+        position: absolute;
+        left:272px;
+        top: 245px;
+        width: 35%;
+        
+    }
+    .img7{
+        width: 50px;
+    }
+    .main{
+        margin-top: 70px;
+    }
+    .main1{
+        position: absolute;
+        margin-top: 30px;
+        height:300px;
+        background-image: url(./images/Rectangle\ 3.png) ;
+        background-position: center;
+        border-radius: 20px;
+        width: 98%;
+        
+    }
+    .main2{
+        margin-top: 70px;
+        height: 300px;
+        background-image: url(./images/Rectangle\ 8.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    
+    .main3{
+        margin-top: 200px;
+        height: 270px;
+        background-image: url(./images/Rectangle\ 504.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    .p1{
+        color: white;
+        font-size: 30px;
+    }
+    .p2{
+        font-size: 15px;
+    }
+    .p3{
+        font-size: 32px;
+    }
+    .p4{
+        font-size: 25px;
+        color: white;
+        padding-top: 45px;
+    }
+    .p5{
+        font-size: 12px;
+    }
+    .p6{
+        font-size: 30px;
+        color: white;
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+    .p7{
+        width: 350px;
+        font-size: 15px;
+        color: white;
+        padding-top: 5px;
+        padding-left: 20px;
+    }
+    .p8{
+        font-size: 12px;
+    }
+    .imgdiv{
+        background: #A9C2CB;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .div{
+        margin-top: 20px;
+        padding-left: 20px;
+
+    }
+    .colcard{
+        background-color: white;
+        border-radius: 15px;
+    }
+    .btn1{
+        background-color: #A9C2CB;
+        font-size: 18px;
+         color: white;
+         border-radius: 10px;
+         padding-top: 6px;
+         padding-bottom: 6px;
+    }
+    .input{
+        border: none;
+        border-radius: 10px;
+        width: 200px;
+        
+    }
+    .a{
+        text-decoration: none;
+        color: black;
+        font-size: 13px;
+    }
+    .a1{
+        text-decoration: none;
+        color: black;
+        font-size: 11px;
+    }
+    .heading{
+        font-size: 13px ;
+    }
+    .heading1{
+        font-size: 13px;
+    }
+    .imglogo{
+        width: 20%;
+    }
+}
+
+@media screen and (max-width:576px) {
+    .img{
+        width: 50%;
+    }
+    .img1{
+        width:20px;
+    
+    }
+    .main4{
+        position: relative;
+        height: 570px;
+    }
+    .div1{
+        position: absolute;
+        background-image: url(./images/lost-in-space-3d-cute-girl-in-astronaut-costume-transparent-background-free-png\ 1.png);
+        background-position: center;
+        width: 100%;
+        background-size: 78%;
+        height: 500px;
+        top: 80px;
+        background-repeat: no-repeat;
+        display: flex ;
+    
+    
+        
+            
+    }
+    .img4{
+        position: absolute;
+        top: 400px;
+        left:60px;
+        width: 65%;
+        height: auto;
+        
+    }
+    .img5{
+        position: absolute;
+        left:20px;
+        top: 250px;
+        width: 40%;
+        height: auto;
+    }
+    .img6{
+        position: absolute;
+        left:215px;
+        top: 200px;
+        width: 40%;
+        height: auto;
+        
+    }
+    .img7{
+        width: 50px;
+    }
+    .main{
+        margin-top: 70px;
+    }
+    .main1{
+        position: absolute;
+        margin-top: 30px;
+        height:280px;
+        background-image: url(./images/Rectangle\ 3.png) ;
+        background-position: center;
+        border-radius: 20px;
+        width: 95%;
+        
+    }
+    .main2{
+        margin-top: 70px;
+        height: 470px;
+        background-image: url(./images/Rectangle\ 8.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    
+    .main3{
+        margin-top: 800px;
+        height: 250px;
+        background-image: url(./images/Rectangle\ 504.png);
+        background-position: center;
+        border-radius: 20px;
+    }
+    .p1{
+        color: white;
+        font-size: 30px;
+    }
+    .p2{
+        font-size: 15px;
+    }
+    .p3{
+        font-size: 27px;
+    }
+    .p4{
+        font-size: 35px;
+        color: white;
+        padding-top: 25px;
+    }
+    .p5{
+        font-size: 15px;
+    }
+    .p6{
+        font-size: 25px;
+        color: white;
+        padding-top: 30px;
+        padding-left: 20px;
+    }
+    .p7{
+        width: 300px;
+        font-size: 15px;
+        color: white;
+        padding-top: 5px;
+        padding-left: 20px;
+    }
+    .p8{
+        font-size: 15px;
+    }
+    .imgdiv{
+        background: #A9C2CB;
+        padding: 10px;
+        border-radius: 15px;
+    }
+    .div{
+        margin-top: 20px;
+        padding-left: 20px;
+
+    }
+    .colcard{
+        background-color: white;
+        border-radius: 15px;
+    }
+    .btn1{
+        background-color: #A9C2CB;
+        font-size: 18px;
+         color: white;
+         border-radius: 10px;
+         padding-top: 6px;
+         padding-bottom: 6px;
+    }
+    .input{
+        border: none;
+        border-radius: 10px;
+        width: 170px;
+        
+    }
+    .a{
+        text-decoration: none;
+        color: black;
+        font-size: 13px;
+    }
+    .a1{
+        text-decoration: none;
+        color: black;
+        font-size: 11px;
+    }
+    .heading{
+        font-size: 20px ;
+    }
+    .heading1{
+        font-size: 18px;
+    }
+    .imglogo{
+        width: 30%;
+    }
+}
